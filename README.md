@@ -18,5 +18,5 @@
 ---
 #### My Certificate of Completion
 
-<a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Hewlett%20Packard%20Enterprise%20/da2T3WZCbMAJD7bNB_Hewlett%20Packard%20Enterprise_xDKiMJoYtkHpPsRhf_1700383503448_completion_certificate.pdf"><p align= "center"><img src="https://github.com/sandesh300/JP-Morgan-Forage-Virtual-Internship/assets/92014891/d4c55d07-ae81-41df-912a-7d6c584914e7"></p></a>
+<a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Hewlett%20Packard%20Enterprise%20/da2T3WZCbMAJD7bNB_Hewlett%20Packard%20Enterprise_xDKiMJoYtkHpPsRhf_1700383503448_completion_certificate.pdf"><p align= "center"><img src="https://github.com/sandesh300/Hewlett-Packard-Software-Engineering-Internship/assets/92014891/0a3f8a61-8412-4596-8108-ff322a1b37e9"></p></a>
 
